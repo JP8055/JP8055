@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PJ
+- 👀 I’m actively looking for data analyst position.
+- 🌱 I’m currently learning SQL and Power BI.
